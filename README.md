@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+#### Please insert Node modules before run
+
 ## Available Scripts
 
 In the project directory, you can run:
