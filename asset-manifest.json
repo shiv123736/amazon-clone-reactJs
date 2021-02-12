@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/amazon-clone/static/css/main.b7c98242.chunk.css",
+    "main.js": "/amazon-clone/static/js/main.023d92aa.chunk.js",
+    "main.js.map": "/amazon-clone/static/js/main.023d92aa.chunk.js.map",
+    "runtime-main.js": "/amazon-clone/static/js/runtime-main.d35be0e7.js",
+    "runtime-main.js.map": "/amazon-clone/static/js/runtime-main.d35be0e7.js.map",
+    "static/js/2.da86388e.chunk.js": "/amazon-clone/static/js/2.da86388e.chunk.js",
+    "static/js/2.da86388e.chunk.js.map": "/amazon-clone/static/js/2.da86388e.chunk.js.map",
+    "static/js/3.088ab514.chunk.js": "/amazon-clone/static/js/3.088ab514.chunk.js",
+    "static/js/3.088ab514.chunk.js.map": "/amazon-clone/static/js/3.088ab514.chunk.js.map",
+    "index.html": "/amazon-clone/index.html",
+    "static/css/main.b7c98242.chunk.css.map": "/amazon-clone/static/css/main.b7c98242.chunk.css.map",
+    "static/js/2.da86388e.chunk.js.LICENSE.txt": "/amazon-clone/static/js/2.da86388e.chunk.js.LICENSE.txt",
+    "static/media/ad.7f9b84b6.png": "/amazon-clone/static/media/ad.7f9b84b6.png",
+    "static/media/amazon-logo.fc7c75b0.png": "/amazon-clone/static/media/amazon-logo.fc7c75b0.png",
+    "static/media/bajaj.52a0f1a5.JPG": "/amazon-clone/static/media/bajaj.52a0f1a5.JPG",
+    "static/media/banner3.31be227a.jpg": "/amazon-clone/static/media/banner3.31be227a.jpg",
+    "static/media/iphone.bd1ca970.JPG": "/amazon-clone/static/media/iphone.bd1ca970.JPG",
+    "static/media/lg.588eaf2b.JPG": "/amazon-clone/static/media/lg.588eaf2b.JPG",
+    "static/media/ptron2.786722ce.jpg": "/amazon-clone/static/media/ptron2.786722ce.jpg",
+    "static/media/tv.09ce52e4.JPG": "/amazon-clone/static/media/tv.09ce52e4.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d35be0e7.js",
+    "static/js/2.da86388e.chunk.js",
+    "static/css/main.b7c98242.chunk.css",
+    "static/js/main.023d92aa.chunk.js"
+  ]
+}
