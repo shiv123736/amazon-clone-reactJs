@@ -1,0 +1,142 @@
+body,
+html {
+  background-color: whitesmoke;
+  height: 100%;
+}
+
+.login_uppercontainer {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: white;
+  min-height: 100%;
+  box-shadow: 0 0 .5em .5em black;
+  /* box-shadow: black 0 -60px 50px -50px; */
+}
+
+
+.login_container {
+  /* padding: 20px; */
+  width: 350px;
+  border: 1px solid #e7e7e7;
+  border-radius: 4px;
+  color: #333;
+}
+
+.login_form > h1 {
+  margin-bottom: 15px;
+  font-weight: 400;
+  color: black;
+}
+
+.login_newuser {
+  margin-top: 20px;
+  width: 350px;
+  text-align: center;
+  /* padding: 20px; */
+}
+
+.login_newuser > p {
+  font-size: 12px;
+  color: #555;
+}
+
+.login_container button {
+  width: 100%;
+  background-color: #f3cc6d;
+  border: 1px solid #ad7f0a;
+  padding: 6px 2px;
+  border-radius: 4px;
+  /* width: 170px; */
+  width: 100%;
+  /* height: 30px; */
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.login_newuser > button {
+  background-color: #eaeded;
+  width: 100%;
+  border: 1px solid #555;
+  padding: 6px 2px;
+  border-radius: 4px;
+  /* width: 170px; */
+  width: 100%;
+  /* height: 30px; */
+  margin-top: 5px;
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.login_newuser > button:hover {
+  background-color: #dee4e4;
+}
+.login_container button:hover {
+  background-color: #f0bf44;
+}
+
+.logo {
+  width: 120px;
+  padding: 20px;
+  object-fit: contain;
+}
+
+.login_form {
+  padding: 20px;
+}
+
+form input {
+  width: 100%;
+  padding: 6px 2px;
+  border-radius: 4px;
+  margin-top: 5px;
+  margin-bottom: 15px;
+  border: 1px solid grey;
+}
+
+.login_policy {
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 20px;
+  margin-bottom: 20px;
+}
+.login_policy > span {
+  color: rgb(94, 152, 190);
+  cursor: pointer;
+}
+
+.login_help {
+  color: rgb(36, 110, 160);
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.login_help:hover,
+.login_policy > span:hover {
+  text-decoration: underline;
+}
+
+.amazon_rights {
+    text-align: center;
+  background-color: whitesmoke;
+}
+
+.amazon_rights > ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.amazon_rights > ul > li {
+    display: inline-block;
+    color :rgb(36, 110, 160);
+    font-size: 12px;
+    padding: 20px;
+}
+
+.amazon_rights > p {
+    font-size: 12px;
+    color: #333;
+}

@@ -1,0 +1,27 @@
+.home_image {
+  width: 100%;
+  mask-image: linear-gradient(to top, rgb(0, 0, 0, 0), rgb(0, 0, 0, 1));
+  margin-bottom: -150px;
+  z-index: -11;
+}
+
+.home_row {
+  display: flex;
+  z-index: 2;
+  margin: 0px 5px 0px 5px;
+}
+
+.home {
+  max-width: 1300px;
+  margin: 0px auto 0px auto;
+}
+
+/* .home::after {
+  content: "hello";
+  position: absolute;
+  z-index: 20;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+} */
